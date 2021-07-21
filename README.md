@@ -1,9 +1,7 @@
 # Team-Profile-Generator-JS-Node-Jest
 
-https://drive.google.com/file/d/1YwkIctGaSBl7nP8uD2GabN117qdAaQpV/view
+## Demo link here --> https://drive.google.com/file/d/1YwkIctGaSBl7nP8uD2GabN117qdAaQpV/view
 
-# Stargazers-App-NASA-API
-### Group Project utilizing Three 3rd-Party RESTful APIs, 3rd Party Widget, Bulma front-end css library, javascript, css and html
 
 ## Table of Contents
 
