@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    color: chartreuse;
+    text-align: center;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin: 10px;
+    border: chartreuse;
+}
+
+.text-dark {
+    color: #664d03!important;
+}
+
+@media screen and (max-width: 700px) {
+    main {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
