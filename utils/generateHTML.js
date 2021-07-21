@@ -80,7 +80,6 @@ function generateHTML(team) {
 <h1>Smoosh & Groovy</h1>
 <h2>"bringin it together and makin it awesome..."</h2>
 <hr>
-
 </header>
 <main>
 <section class="row">
